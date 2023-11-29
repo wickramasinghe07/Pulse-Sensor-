@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 
 // WiFi network credentials
-const char* ssid = "Redmi Note 9 Pro";
-const char* password = "asdfgh765";
+const char* ssid = "*****************";
+const char* password = "************";
 
 // ThingsBoard server settings
 const char* thingsboardServer = "demo.thingsboard.io";
